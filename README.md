@@ -1,2 +1,2 @@
-# How To Become a Tester
-Test Cases and bug reports done in the course "How to become a tester", lead by Radek Kitner
+# Login_testing
+Testing login on website http://testovani.kitner.cz/login_app/ with postman.
