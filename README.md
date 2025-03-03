@@ -1,2 +1,2 @@
-# How To Become a Tester
-Test Cases and bug reports done in the course "How to become a tester", lead by Radek Kitner
+# User registration testing
+Testing user registration on website: http://testovani.kitner.cz/regkurz/ and its database: http://testovani.kitner.cz/regkurz/list.php
